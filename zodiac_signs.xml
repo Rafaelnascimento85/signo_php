@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-20</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>04-21</dataInicio>
+        <dataFim>05-20</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>05-21</dataInicio>
+        <dataFim>06-20</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>06-21</dataInicio>
+        <dataFim>07-20</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>07-21</dataInicio>
+        <dataFim>08-20</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>08-21</dataInicio>
+        <dataFim>09-20</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>09-21</dataInicio>
+        <dataFim>10-20</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>10-21</dataInicio>
+        <dataFim>11-20</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>11-21</dataInicio>
+        <dataFim>12-20</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>12-21</dataInicio>
+        <dataFim>01-20</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>01-21</dataInicio>
+        <dataFim>02-20</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>02-21</dataInicio>
+        <dataFim>03-20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Lorem ipsum dolor sit amet.</descricao>
+    </signo>
+</signos>
